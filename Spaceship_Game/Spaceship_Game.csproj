@@ -90,13 +90,18 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Resources\Képkivágás.PNG" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Resources\unnamed.png" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\boom.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ufo.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Images.txt" />
+    <None Include="Resources\explosion.png" />
+    <None Include="Resources\asteroid.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

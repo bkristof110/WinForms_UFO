@@ -63,9 +63,9 @@ namespace Spaceship_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap boom {
+        internal static System.Drawing.Bitmap asteroid {
             get {
-                object obj = ResourceManager.GetObject("boom", resourceCulture);
+                object obj = ResourceManager.GetObject("asteroid", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Spaceship_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Képkivágás {
+        internal static System.Drawing.Bitmap explosion {
             get {
-                object obj = ResourceManager.GetObject("Képkivágás", resourceCulture);
+                object obj = ResourceManager.GetObject("explosion", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Spaceship_Game.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap unnamed {
+        internal static System.Drawing.Bitmap ufo {
             get {
-                object obj = ResourceManager.GetObject("unnamed", resourceCulture);
+                object obj = ResourceManager.GetObject("ufo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

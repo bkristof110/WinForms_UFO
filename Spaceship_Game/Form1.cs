@@ -44,7 +44,7 @@ namespace Spaceship_Game
                 {
                     timer.Stop();
                     moveTimer.Stop();
-                    this.BackgroundImage = Spaceship_Game.Properties.Resources.boom;
+                    this.BackgroundImage = Spaceship_Game.Properties.Resources.explosion;
                     MessageBox.Show("Game Over!");
                     Application.Exit();
                     return;
